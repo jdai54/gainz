@@ -1,0 +1,16 @@
+.product-title {
+  padding-top: 17px;
+}
+
+.quantity {
+  padding-top:15px;
+}
+.quantity-select {
+  margin-bottom: 20px;
+}
+
+.details {
+  border-top: 1px dotted #c9c0b5;
+  padding-top: 10px;
+  margin-top: 15px;
+}
